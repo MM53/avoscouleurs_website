@@ -39,7 +39,7 @@ const Slide = ({ id, design, name, post, date, desc, valueIndex, index }) => {
         <div className='right'>
           <div className='icon'>
             <div className='quote'>
-              <i class='fa fa-quote-right'></i>
+              <i className='fa fa-quote-right'></i>
             </div>
           </div>
 

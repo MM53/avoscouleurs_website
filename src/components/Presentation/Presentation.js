@@ -46,17 +46,17 @@ const Presentation = () => {
                 <div className='button'>
                   <a href="//www.facebook.com/avoscouleurs31" rel="noopener noreferrer" target="_blank">
                   <button className='btn_shadow'>
-                    <i class='fab fa-facebook-f'></i>
+                    <i className='fab fa-facebook-f'></i>
                   </button>
                   </a>
                   <a href="//www.instagram.com/avoscouleurs/?hl=fr" rel="noopener noreferrer" target="_blank">
                   <button className='btn_shadow'>
-                    <i class='fab fa-instagram'></i>
+                    <i className='fab fa-instagram'></i>
                   </button>
                   </a>
                   <a href="//www.linkedin.com/company/eurl-a-vos-couleurs/" rel="noopener noreferrer" target="_blank">
                   <button className='btn_shadow'>
-                    <i class='fab fa-linkedin-in'></i>
+                    <i className='fab fa-linkedin-in'></i>
                   </button>
                   </a>
                 </div>
