@@ -37,9 +37,6 @@ const Presentation = () => {
               Riches de plusieurs années d’expériences, nous vous orientons vers 
               les produits et procédés d’impression les plus adaptés à vos besoins.
             </p>
-            {/* <div id="numero">
-                <p id="tel"><a href="tel:0561915246">05.61.91.52.46</a></p>
-            </div> */}
             <div className='hero_btn d_flex'>
               <div className='col_1'>
                 <h4>TROUVEZ-NOUS</h4>
