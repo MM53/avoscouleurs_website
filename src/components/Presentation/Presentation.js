@@ -22,13 +22,15 @@ const Presentation = () => {
             <h2>
               Spécialiste en 
               <span id="typewriter">
-                <Typewriter words={[" broderie.", " sérigraphie.", " sublimation.", " transferts.", " signalétique."]} 
-                loop 
+                <Typewriter  
+                words={[' broderie.', ' sérigraphie.', ' sublimation.', ' transferts.', ' signalétique.']} 
+                loop
                 cursor 
                 cursorStyle='|' 
                 typeSpeed={70} 
                 deleteSpeed={50} 
-                delaySpeed={1000} />
+                delaySpeed={1000} 
+                />
               </span>
             </h2>
 
