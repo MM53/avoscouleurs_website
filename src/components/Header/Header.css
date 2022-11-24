@@ -9,7 +9,7 @@
 }
 
 .logo2022 {
-  width: 90%;
+  width: 70%;
 }
 
 @media (max-width: 1540px) {
@@ -49,6 +49,7 @@
 header {
     height: 10vh;
     line-height: 10vh;
+    
     
   }
   header .container {
@@ -146,5 +147,10 @@ header {
     }
     .header.active {
       height: 10vh;
+    }
+  }
+  @media (max-width: 2500px) {
+    header {
+      margin-bottom: 30px;
     }
   }
